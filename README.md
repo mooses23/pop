@@ -233,4 +233,4 @@ FIRMSYNC is actively developed with regular updates. See `replit.md` for the lat
 
 ---
 
-**Built with ❤️ for legal professionals seeking AI-powered document analysis solutions.**
+**Built with ❤️ for legal professionals seeking AI-powered document analysis solutions.**# pop
