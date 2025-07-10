@@ -1,0 +1,15 @@
+node_modules
+dist
+build
+*.log
+.env
+.env.*
+*.sql
+*.backup
+*.md
+package-lock.json
+yarn.lock
+coverage
+.next
+.vscode
+.git

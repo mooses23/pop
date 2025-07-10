@@ -1,0 +1,36 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "typescript.preferences.includePackageJsonAutoImports": "auto",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "files.watcherExclude": {
+      "**/node_modules/**": true,
+      "**/dist/**": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "bradlc.vscode-tailwindcss", 
+      "ms-ossdata.vscode-pgsql",
+      "eamodio.gitlens",
+      "visualstudioexptteam.vscodeintellicode",
+      "dsznajder.es7-react-js-snippets",
+      "christian-kohler.npm-intellisense",
+      "rphlmr.vscode-drizzle-orm",
+      "antfu.vite",
+      "vitest.explorer",
+      "imgildev.vscode-drizzle-snippets",
+      "mtxr.sqltools",
+      "mtxr.sqltools-driver-pg",
+      "formulahendry.code-runner",
+      "orta.vscode-jest"
+    ]
+  }
+}
